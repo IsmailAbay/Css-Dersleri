@@ -1,0 +1,8 @@
+::selection{
+    background: aqua;
+    color: white;
+}
+
+p::selection{
+    background: red;
+}

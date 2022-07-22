@@ -1,0 +1,6 @@
+body{
+    background: red;
+}
+p::first-line{
+    background: aqua;
+}

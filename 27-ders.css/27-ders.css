@@ -1,0 +1,9 @@
+.list li:first-child{
+    background-color: aqua;
+}
+div ul:first-child{
+    background-color: blue;
+}
+div:first-child{
+    background-color: red;
+}

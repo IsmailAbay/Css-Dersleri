@@ -1,0 +1,10 @@
+abbr[title]{
+    color: red;
+}
+img [alt] {
+    background: blue;
+}
+
+img [height] {
+    background: cornflowerblue;
+}

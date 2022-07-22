@@ -1,0 +1,7 @@
+h2 ~ p {
+    color: blue;
+}
+
+ul li.list1 ~ li {
+    color: orangered;
+}

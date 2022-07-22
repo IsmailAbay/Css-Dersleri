@@ -1,0 +1,14 @@
+p > b {
+    color: darkred;
+}
+p > em {
+    color: aqua;
+}
+
+span > b {
+    color: burlywood;
+}
+
+span > em{
+    color: red;
+}

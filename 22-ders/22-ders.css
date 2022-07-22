@@ -1,0 +1,11 @@
+.box::after{
+    content: "sonraki yazı";
+    color: aqua;
+    background: burlywood;
+}
+
+.box::before {
+    content: "önceki yazı" ;
+    background: aqua;
+    color: blue;
+}

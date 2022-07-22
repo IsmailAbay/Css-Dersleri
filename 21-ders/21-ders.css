@@ -1,0 +1,8 @@
+div{
+    background: chocolate;
+}
+div::after {
+    content: "sonraki yazı";
+    color: aqua;
+    background: chartreuse;
+}

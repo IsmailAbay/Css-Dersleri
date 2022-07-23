@@ -1,0 +1,6 @@
+ul li:nth-child(n+4):nth-child(even):nth-child(-n+8) {
+    background-color: red;
+}
+
+/*odd:tek sayıdan oluşanları seçer.
+ even:çift sayıdan oluşanları seçer.*/

@@ -1,0 +1,20 @@
+a:hover{
+    background-color: orangered;
+}
+
+
+ul li:hover {
+    background-color: aqua;
+}
+
+div:hover{
+    background-color: yellowgreen;
+}
+
+div span:hover{
+    background-color: purple;
+}
+
+button:hover + ul{
+    display: none;
+}

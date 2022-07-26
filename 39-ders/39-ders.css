@@ -1,0 +1,6 @@
+li:only-child{
+    background-color: yellowgreen;
+}
+ div:only-child{
+    background-color: blue;
+ }

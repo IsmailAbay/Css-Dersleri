@@ -3,6 +3,6 @@ input:valid{
     color: green;
 }
 input:invalid{
-    background-color: green;
+    background-color: red;
     color: wheat;
 }

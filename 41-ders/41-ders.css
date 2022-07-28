@@ -1,5 +1,5 @@
 abbr[title] {
-    background-color: lime;
+    background-color: tomato;
 }
 
 abbr:not([title]):not(.test):not(#test) {

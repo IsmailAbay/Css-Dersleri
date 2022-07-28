@@ -1,10 +1,10 @@
 li:empty{
-    display: none;
+    display : none;
 }
 
 #total:empty{
-    display: none;
+    display : none;
 }
 #total:not(:empty)+.loading-text{
-    display: none;
+    display : none;
 }

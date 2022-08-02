@@ -1,0 +1,10 @@
+.box1 {
+    background-color: lime;
+    width: min-content;
+}
+
+.box2{
+    background-color: tomato;
+    writing-mode: vertical-lr;
+    height: max-content;
+}
